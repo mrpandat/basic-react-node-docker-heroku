@@ -1,8 +1,8 @@
-# basic-react-node-app-heroku
+# Basic-react-node-app-heroku
 
-This is the simpliest Node + React + Heroku + Docker Application, with automatic CI / CD.
+This is the simpliest Node + React + Heroku + Docker Application, with automatic CI / CD on Github / Heroku.
 
-## Secrets
+## Secrets
 
 To enable Heroku and/or Dockerhub, you have to change the secrets in your github project.
 
