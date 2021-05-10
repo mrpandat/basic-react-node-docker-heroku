@@ -16,6 +16,7 @@ jobs:
   #         heroku_app_name: "shrouded-mesa-03559" #Must be unique in Heroku
   #         heroku_email: "ceciestuntest@gmail.com"
   push-heroku-docker:
+    name: Push Docker image to Heroku and deploy
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
