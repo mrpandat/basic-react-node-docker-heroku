@@ -6,6 +6,7 @@ on:
       - master
 
 jobs:
+  # This action can be uncommented if you don't want docker in your heroku deployment
   # build:
   #   runs-on: ubuntu-latest
   #   steps:
