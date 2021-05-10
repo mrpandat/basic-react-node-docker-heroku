@@ -22,6 +22,6 @@ DOCKER_USERNAME : Your Dockerhub username
 
 DOCKER_PASSWORD : Your Dockerhub password
 
-DOCKER_REGISTRY : Your Dockerhub registry
+DOCKER_REPO : Your Dockerhub registry
 
 Enjoy 
