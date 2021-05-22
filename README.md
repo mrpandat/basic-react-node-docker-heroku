@@ -14,11 +14,11 @@ Start your node server: ```npm start```
 
 ## Host your application
 
-Fork this repository
-Replace all the secrets in github repository
-Connect your github repository with your heroku app
-Deploy your App
-Enjoy
+- Fork this repository
+- Replace all the secrets in github repository
+- Connect your github repository with your heroku app
+- Deploy your App
+- Enjoy
 
 ## Secrets
 
