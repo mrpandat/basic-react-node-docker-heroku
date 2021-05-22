@@ -2,11 +2,23 @@
 
 This is the simpliest Node + React + Heroku + Docker Application, with automatic CI / CD on Github / Heroku.
 
-## Get started
+## Demo
+
+https://basic-react-node-docker-heroku.herokuapp.com/
+
+## Get started on local
 
 Build your frontend app: ```npm run build```
 
 Start your node server: ```npm start```
+
+## Host your application
+
+Fork this repository
+Replace all the secrets in github repository
+Connect your github repository with your heroku app
+Deploy your App
+Enjoy
 
 ## Secrets
 
@@ -22,6 +34,4 @@ DOCKER_USERNAME : Your Dockerhub username
 
 DOCKER_PASSWORD : Your Dockerhub password
 
-DOCKER_REPO : Your Dockerhub registry
-
-Enjoy 
+DOCKER_REPO : Your Dockerhub registry 
